@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f46d3a87abb49c7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed94381cab4b127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a95e74ee2286da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "后端/node/常用 模块及Api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba45f296db34e33a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aee238768e13073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4909ad9f940f46cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a0dcc565155613b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05f1149bb467b698",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b88cb3418aec4d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c2055361a55105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de363e13e4c86251",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "后端/node/常用 模块及Api.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d05f1e7e6730b589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "后端/node/常用 模块及Api.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d13012e78535c614",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac17fa5ef4441a4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "后端/node/常用 模块及Api.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "33a95e74ee2286da",
+  "lastOpenFiles": [
+    "未命名.md",
+    "后端/node/常用 模块及Api.md",
+    "项目/udemy/Node-Express/项目代码.md",
+    "后端/node"
+  ]
+}
