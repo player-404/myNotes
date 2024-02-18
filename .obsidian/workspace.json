@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/mongoose/Schema.md",
+                "file": "网络/http/HTTP标头.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/mongoose/Schema.md",
+                "file": "网络/http/HTTP标头.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/mongoose/Schema.md",
+                "file": "网络/http/HTTP标头.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/mongoose/Schema.md"
+                "file": "网络/http/HTTP标头.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4909ad9f940f46cb",
+  "active": "33a95e74ee2286da",
   "lastOpenFiles": [
-    "项目/udemy/Node-Express/项目代码.md",
-    "前端/threeJS/1.起步.md",
+    "网络/http/HTTP安全.md",
+    "网络/http/HTTP标头.md",
+    "().md",
+    "未命名思维导图.md",
     "后端/mongoose/Schema.md",
+    "前端/threeJS/1.起步.md",
+    "网络/http",
+    "项目/udemy/Node-Express/项目代码.md",
     "后端/mongoose",
     "后端/node/邮件发送服务.md",
     "前端/threeJS",
