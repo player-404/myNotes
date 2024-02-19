@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "",
-  "baseFontSize": 18
+  "theme": "obsidian",
+  "cssTheme": "Mado Miniflow",
+  "baseFontSize": 15,
+  "textFontFamily": ""
 }
