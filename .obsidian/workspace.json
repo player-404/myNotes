@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/mongodb/安装与配置.md",
-                "mode": "source",
+                "file": "后端/redis/安装与配置.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/mongodb/安装与配置.md",
+                "file": "后端/redis/安装与配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/mongodb/安装与配置.md",
+                "file": "后端/redis/安装与配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/mongodb/安装与配置.md"
+                "file": "后端/redis/安装与配置.md"
               }
             }
           }
@@ -145,17 +145,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de363e13e4c86251",
+  "active": "425b930ed4c0ab77",
   "lastOpenFiles": [
-    "后端/mongodb/问题解决.md",
-    "后端/mongodb/安装与配置.md",
-    "后端/邮件发送服务.md",
-    "后端/常用 模块及Api.md",
-    "后端/Schema.md",
+    "().md",
+    "后端/redis/安装与配置.md",
     "网络/http/HTTP标头.md",
     "网络/http/HTTP安全.md",
+    "后端/mongoose/Schema.md",
+    "后端/node/邮件发送服务.md",
+    "后端/redis",
+    "未命名",
+    "后端/node/常用 模块及Api.md",
+    "后端/mongodb/安装与配置.md",
+    "后端/mongodb/问题解决.md",
     "后端/mongodb",
-    "().md",
     "未命名思维导图.md",
     "前端/threeJS/1.起步.md",
     "网络/http",
