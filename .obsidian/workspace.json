@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/redis/安装与配置.md",
-                "mode": "preview",
+                "file": "生活/驾照/B2 学习.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/redis/安装与配置.md",
+                "file": "生活/驾照/B2 学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "后端/redis/安装与配置.md",
+                "file": "生活/驾照/B2 学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/redis/安装与配置.md"
+                "file": "生活/驾照/B2 学习.md"
               }
             }
           }
@@ -147,20 +147,23 @@
   },
   "active": "425b930ed4c0ab77",
   "lastOpenFiles": [
-    "().md",
+    "前端/threeJS/1.起步.md",
+    "生活/驾照/B2 学习.md",
     "后端/redis/安装与配置.md",
-    "网络/http/HTTP标头.md",
-    "网络/http/HTTP安全.md",
+    "生活/驾照",
+    "未命名",
+    "生活",
+    "后端/mongodb/问题解决.md",
+    "后端/mongodb/安装与配置.md",
     "后端/mongoose/Schema.md",
     "后端/node/邮件发送服务.md",
-    "后端/redis",
-    "未命名",
     "后端/node/常用 模块及Api.md",
-    "后端/mongodb/安装与配置.md",
-    "后端/mongodb/问题解决.md",
+    "().md",
+    "网络/http/HTTP标头.md",
+    "网络/http/HTTP安全.md",
+    "后端/redis",
     "后端/mongodb",
     "未命名思维导图.md",
-    "前端/threeJS/1.起步.md",
     "网络/http",
     "项目/udemy/Node-Express/项目代码.md",
     "后端/mongoose",
