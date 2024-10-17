@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/react/起步.md",
+                "file": "前端/UI/elementUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/react/起步.md",
+                "file": "前端/UI/elementUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/react/起步.md",
+                "file": "前端/UI/elementUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/react/起步.md"
+                "file": "前端/UI/elementUI.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,18 +147,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "425b930ed4c0ab77",
+  "active": "4909ad9f940f46cb",
   "lastOpenFiles": [
+    "前端/uniapp/项目创建.md",
+    "前端/UI/elementUI.md",
+    "前端/UI",
     "前端/uniapp/uniapp-配置.md",
     "前端/react/起步.md",
+    "后端/node/node 常用工具.md",
     "后端/mongoose/Schema.md",
-    "后端/mongodb/问题解决.md",
-    "后端/mongodb/安装与配置.md",
     "后端/node/常用 模块及Api.md",
-    "后端/node/邮件发送服务.md",
-    "前端/threeJS/1.起步.md",
-    "前端/uniapp",
+    "后端/mongodb/安装与配置.md",
+    "后端/mongodb/问题解决.md",
     "后端/redis/安装与配置.md",
+    "后端/node/邮件发送服务.md",
+    "前端/微信小程序/登录.md",
+    "前端/threeJS/1.起步.md",
+    "项目/udemy/Node-Express/项目代码.md",
+    "前端/微信小程序",
+    "前端/uniapp",
     "前端/react",
     "生活/驾照/B2 学习.md",
     "导图/mongoose.xmind",
@@ -168,10 +177,7 @@
     "网络/http/HTTP标头.md",
     "网络/http/HTTP安全.md",
     "后端/redis",
-    "后端/mongodb",
     "未命名思维导图.md",
-    "网络/http",
-    "项目/udemy/Node-Express/项目代码.md",
     "未命名.md"
   ]
 }
