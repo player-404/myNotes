@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/UI/elementUI.md",
+                "file": "前端/react/一、react初见.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "一、react初见"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/UI/elementUI.md",
+                "file": "前端/react/一、react初见.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "一、react初见 的反向链接列表"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/UI/elementUI.md",
+                "file": "前端/react/一、react初见.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "一、react初见 的出链列表"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/UI/elementUI.md"
-              }
+                "file": "前端/react/一、react初见.md"
+              },
+              "icon": "lucide-list",
+              "title": "一、react初见 的大纲"
             }
           }
         ],
@@ -134,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,23 +162,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4909ad9f940f46cb",
+  "active": "425b930ed4c0ab77",
   "lastOpenFiles": [
-    "前端/uniapp/项目创建.md",
-    "前端/UI/elementUI.md",
-    "前端/UI",
-    "前端/uniapp/uniapp-配置.md",
-    "前端/react/起步.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名 2.md",
+    "未命名 3.md",
+    "未命名 4.md",
+    "前端/react/一、react初见.md",
+    "后端/redis/安装与配置.md",
+    "后端/node/常用 模块及Api.md",
+    "后端/node/邮件发送服务.md",
     "后端/node/node 常用工具.md",
     "后端/mongoose/Schema.md",
-    "后端/node/常用 模块及Api.md",
-    "后端/mongodb/安装与配置.md",
     "后端/mongodb/问题解决.md",
-    "后端/redis/安装与配置.md",
-    "后端/node/邮件发送服务.md",
+    "后端/mongodb/安装与配置.md",
+    "网络/http/HTTP标头.md",
     "前端/微信小程序/登录.md",
-    "前端/threeJS/1.起步.md",
     "项目/udemy/Node-Express/项目代码.md",
+    "网络/http/HTTP安全.md",
+    "前端/UI/elementUI.md",
+    "前端/threeJS/1.起步.md",
+    "前端/uniapp/项目创建.md",
+    "前端/UI",
+    "前端/uniapp/uniapp-配置.md",
     "前端/微信小程序",
     "前端/uniapp",
     "前端/react",
@@ -174,10 +196,7 @@
     "未命名",
     "生活",
     "().md",
-    "网络/http/HTTP标头.md",
-    "网络/http/HTTP安全.md",
     "后端/redis",
-    "未命名思维导图.md",
-    "未命名.md"
+    "未命名思维导图.md"
   ]
 }
