@@ -5,8 +5,11 @@
 npx create-react-app
 ```
 
-### vite 创建
-推荐创建项目的方式
+### next 创建
+使用next创建react项目，创建的项目有很多中，可以根据自己的需求使用
+```shell
+npx create-next-app@latest
+```
 
 
 ## 2.引入react
